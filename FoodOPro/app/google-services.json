@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "630673688798",
+    "firebase_url": "https://foodopro.firebaseio.com",
+    "project_id": "foodopro",
+    "storage_bucket": "foodopro.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:630673688798:android:af6b1bfcb2649d6a",
+        "android_client_info": {
+          "package_name": "io.github.bhanu1911.foodopro"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "630673688798-n3p6lcih77ohtknpr5e2cf3ckefd1ggf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.github.bhanu1911.foodopro",
+            "certificate_hash": "c8b944d8843062ff50829a30084df790880603c8"
+          }
+        },
+        {
+          "client_id": "630673688798-7b6hl5j808230cd06icvhdl9nbneiopf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCUFk4ILQPYKzH4FMdVIg3pI2tQUekHAfU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "630673688798-7b6hl5j808230cd06icvhdl9nbneiopf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
